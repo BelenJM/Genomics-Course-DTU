@@ -1,2 +1,2 @@
-# Genomics-Course-DTU-2023
+# Genomics-Course-DTU
 Repository for the Genomic Methods in Breeding and Management of Aquatic Living Resources at DTU
